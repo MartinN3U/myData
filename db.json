@@ -5,7 +5,8 @@
         { "title": "Umbuch", "path": "/" }
     ],
 
-    "workflowItems":[    
+    "workflowItems":[
+        {
             "stockAdjustmentReceipt":[
                 {
                     "id": "001",
@@ -31,6 +32,7 @@
                     "name":"einheit",
                     "type":"text"
                 }
-            ] 
+            ]
+        }
     ]
 }
