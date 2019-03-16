@@ -1,0 +1,8 @@
+{
+    "workflowComponents":[
+        { "title": "Zugang", "path": "/stockAdjustmentReceipt" },
+        { "title": "Abgang", "path": "/" },
+        { "title": "Umbuch", "path": "/" },
+        { "title": "Behälter", "path": "/" }
+    ]
+}
