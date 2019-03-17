@@ -5,32 +5,36 @@
         { "title": "Umbuch", "path": "/" }
     ],
 
+    "stockAdjustmentReceipt":[
+        {
+            "id": "001",
+            "descr": "Artikel",
+            "name":"name1",
+            "type":"text"
+        },
+        {
+            "id": "002",
+            "descr": "Lagerplatz",
+            "name":"name2",
+            "type":"text"
+        },
+        {
+            "id": "003",
+            "descr": "Menge",
+            "name":"name3",
+            "type":"number"
+        },
+        {
+            "id": "004",
+            "descr": "Einheit",
+            "name":"einheit",
+            "type":"text"
+        }
+    ],
+    
+    "postData":[
+        { "id": 1, "title": "first" }
+    ],
 
-            "stockAdjustmentReceipt":[
-                {
-                    "id": "001",
-                    "descr": "Artikel",
-                    "name":"name1",
-                    "type":"text"
-                },
-                {
-                    "id": "002",
-                    "descr": "Lagerplatz",
-                    "name":"name2",
-                    "type":"text"
-                },
-                {
-                    "id": "003",
-                    "descr": "Menge",
-                    "name":"name3",
-                    "type":"number"
-                },
-                {
-                    "id": "004",
-                    "descr": "Einheit",
-                    "name":"einheit",
-                    "type":"text"
-                }
-            ]
  
 }
